@@ -17,3 +17,14 @@ Recording the mistakes on notebook (not finished...)
 
 ## Day 3
 Finished studying list 5-6, review list 3-4 from 佛脚词.
+
+## Day 4
+Finish writing down all mistakes from Q1-Q18 in math170.
+Finish vocab list 7-8 majority
+
+## Day 5
+Finish and review vocab list 7-8.
+Do Q18-Q34 in math 170
+
+## Day 6 
+Finish writing down all mistakes for Q18-Q34 for math 170
