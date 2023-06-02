@@ -17,5 +17,5 @@ find midpoint of 2 points
 
 study SIN COS TAN and traingle short cuts (propery of isoeltes, equilateral)
 
-
+if twice as many employees work at the plant in Mexico as work at the plant in Pakistan Means 2 Pakis = Mexico
 
