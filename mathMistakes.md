@@ -19,3 +19,10 @@ study SIN COS TAN and traingle short cuts (propery of isoeltes, equilateral)
 
 if twice as many employees work at the plant in Mexico as work at the plant in Pakistan Means 2 Pakis = Mexico
 
+what does integers consists of? is 0,1,and -1 integers?
+
+What does primes consits of? is 0,1,2 primes?
+
+4 qraduents
+
+

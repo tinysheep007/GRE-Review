@@ -40,3 +40,9 @@ Finish writing down all mistakes for Q18-Q34 for math 170
 follow along with 考满分 4 days schedule for practicing 6 choose 2 problems
 do math 170 problems up to Q64
 review old vocab list 
+
+## Day 8
+Finish list 9-10 from vocab
+Finish day 2 KMF 6 choose 2 practice / looked over the 200 words from 6 choose 2.
+Finish 3 short passage
+Finsh math 170 up to Q80 and copying down mistakes to notebook.
