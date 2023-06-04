@@ -9,6 +9,8 @@ leave AW writing in the end to learn the template
 first, finish 3000 words from 考满分3000GRE app
 Per day, 3 short passage, 2 logical solo, 40 math, 40 fill in blank
 
+suggested time for fill in blank is around 1 min, long passage 7-8 min for 4 questions. Short passage 3-4 minute for 2-3 questions.
+
 my own collected vocab list 
 https://docs.google.com/spreadsheets/d/1nEpcNVeK9GfUQ0M7hPDNZwv7UE9y0AzgnihOdgGeQEY/edit#gid=0
 
@@ -46,3 +48,8 @@ Finish list 9-10 from vocab
 Finish day 2 KMF 6 choose 2 practice / looked over the 200 words from 6 choose 2.
 Finish 3 short passage
 Finsh math 170 up to Q80 and copying down mistakes to notebook.
+
+## Day 9
+Finish day 3 KMF 6 choose 2 practice / look over 200 words but needs more review later on
+Finish math 170 to Q100 / copying everything down mistakes to notebook.
+Finsh 3 short passage and 3 logical. Logical is super hard. Need to began working on fill in blank and long passage soon.

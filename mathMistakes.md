@@ -25,4 +25,13 @@ What does primes consits of? is 0,1,2 primes?
 
 4 qraduents
 
+learn how to calcualte compound interest / short cut equation
+
+result of a sqaure root, the answer must be positive
+Ex: sqrt(k) = x + 1, since x+1 on the right side is the answer of a squre root.
+x + 1 >= 0 or else the solution fails.
+
+同圆或等圆中，同弧或等弧所对的圆周角相等
+
+
 
