@@ -53,3 +53,8 @@ Finsh math 170 up to Q80 and copying down mistakes to notebook.
 Finish day 3 KMF 6 choose 2 practice / look over 200 words but needs more review later on
 Finish math 170 to Q100 / copying everything down mistakes to notebook.
 Finsh 3 short passage and 3 logical. Logical is super hard. Need to began working on fill in blank and long passage soon.
+
+## Day 10
+Finish day 4 KMF 6 choose 2 practice
+recorded all unkown words from the KMF 6 choose 2 word list
+Start 200 question grind KMF day 1. KILLED BY INTEGER QUESTIONS
