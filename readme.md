@@ -58,3 +58,13 @@ Finsh 3 short passage and 3 logical. Logical is super hard. Need to began workin
 Finish day 4 KMF 6 choose 2 practice
 recorded all unkown words from the KMF 6 choose 2 word list
 Start 200 question grind KMF day 1. KILLED BY INTEGER QUESTIONS
+
+## Day 11
+Finish day 2 200 question grind KMF. did better in the non-integer section
+finish vocab list 13-14
+did up to Q120 in math 170
+tomrrow working day would be vocab review
+practice 10 fill in blank with everything except reading
+tomrrow need to review mistakes of that
+
+
