@@ -67,4 +67,9 @@ tomrrow working day would be vocab review
 practice 10 fill in blank with everything except reading
 tomrrow need to review mistakes of that
 
+## Day 12
+working day in boba. 
+Finish list 15-16 but no review of previous words
+did up to Q140 in math 170. lost of mistake must copy down to mistakes notebooks
+STILL NEED TO REVIEW MISTAKES FROM VERBAL Q and collect all mistakes in the math section of KMF before activity closes.
 
