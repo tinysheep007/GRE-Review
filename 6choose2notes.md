@@ -15,11 +15,15 @@ not only... ,... 可能有递进关系
 read the sentence carefully, don't necglect certain words because they serves important roles to hinting you which logic is correct
 Ex: I did not find the word "loner" useful, but then later there is "sociable". Now you can instantly see, we want opposite words
 
+pay attention to words like NOT
+
+don't choose the word sets just because you know their meaning more. It does not means other options are not valid.
+
 ### Verbal fill in blank overall
 
 trust the logic of the sentence, don't use your own knowledge to judge the topic.
 
 pick the words based on the context of the previous picked words as well
 
-
+first, find the object where the blank is referring to. Next, learn the logic of the strcuture of the sentence: do we need to put a positive, or negative tone, or more severe tone.
 

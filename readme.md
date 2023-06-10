@@ -73,3 +73,19 @@ Finish list 15-16 but no review of previous words
 did up to Q140 in math 170. lost of mistake must copy down to mistakes notebooks
 STILL NEED TO REVIEW MISTAKES FROM VERBAL Q and collect all mistakes in the math section of KMF before activity closes.
 
+## Day 13-14
+no progress on the vocab
+finish day 5 in KMF 200 questions
+
+## Day 15
+Finish vocab list 18-19
+Recorded most mistakes from the math portion of KMF 200 Q
+Finish 20 V and 20 Q from KMF 200Q
+
+## KMF Verbal progress
+f: fill in blank / r: reading
+section 1: f=4/10 r=4/10 t=8/20
+section 2: f=4/10 r=8/10 t=12/20
+section 3: f=5/10 r=3/10 t=8/20
+section 4: f=4/10 r=5/10 t=9/20
+section 5: f=7/10 r=3/10 t=10/20

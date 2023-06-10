@@ -4,7 +4,7 @@ Combination / proability
 Ex: 8 pick 4 when order don't matter
 
 stats stuff
-Ex: the area underneath a normal grapth
+Ex: the area underneath a normal graph / normal curve 
 
 congruent triangles
 
@@ -76,9 +76,24 @@ business annual interest rate equation
 
 study the trick of divisible number such as 3, 9 
 
+study interquartile range
 
+what affects the standard deivation of a equation(only multiply and divide matters)
 
+For any equation ax² + bx + c = 0 -  
+Sum of the values of x = -b/a  
+Product of the values of x = c/a  
 
+quadratic formula
 
+多边形内角和公式=(n-2)*180
 
+三角形：外角=两个内角和
+两边之和大于第三边， 两边之差小于第三边。
+
+triangle rules 45 45 90, 30 60 90
+
+circular cone equation
+
+review distance formula
 
