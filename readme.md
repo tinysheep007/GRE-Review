@@ -78,9 +78,14 @@ no progress on the vocab
 finish day 5 in KMF 200 questions
 
 ## Day 15
-Finish vocab list 18-19
+Finish vocab list 17-18
 Recorded most mistakes from the math portion of KMF 200 Q
 Finish 20 V and 20 Q from KMF 200Q
+
+## Day 16
+Finish vocab list 19-20
+Finsihed Recording all mistakes from KMF 200Q
+ 
 
 ## KMF Verbal progress
 f: fill in blank / r: reading

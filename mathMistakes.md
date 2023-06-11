@@ -97,3 +97,29 @@ circular cone equation
 
 review distance formula
 
+A⽟⽶地杂交种⼦数量17%A，B⽟⽶地杂交种⼦数量11%A
+故两个⽟⽶地加起来，杂交种⼦数量17%A+11%·B
+占全部种⼦的百分⽐C=(17%A+11%·B)/(A+B)
+当A=B，正好平分，那么C⼀定就等于(17%+11%)/2=14%
+当A<B，11%的权重更大，那么⼀定偏向11%，故C<14%
+当A>B，17%的权重更大，那么⼀定偏向17%，故C>14%
+⽽本题，没有给出B和A的关系，故无法比较QA与QB的关系。
+
+握手问题
+总净握手次数=（总握手人数*每人需要握的次数）/ 2
+
+integer and sum problem note:
+if 1.25x is the sum of integer sets,  x must be multiple of 4
+if 0.09x is the sum of the integer sets, x must be multiple of 100
+if 0.15x is the sum of the integer sets, x must be multiple of 20
+if 0.075 is the sum of the integer sets, x must be multiple of 40 
+
+midpoint equation on a xy plane
+均值不等式 
+握手公式
+n边形对角线数量公式
+单利公式
+复利公式
+二项式定理
+
+
