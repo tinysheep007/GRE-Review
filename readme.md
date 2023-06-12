@@ -85,6 +85,10 @@ Finish 20 V and 20 Q from KMF 200Q
 ## Day 16
 Finish vocab list 19-20
 Finsihed Recording all mistakes from KMF 200Q
+
+## Day 17
+In flushing, ate funny BBQ
+Finish vocab list 21-22 no review tho
  
 
 ## KMF Verbal progress
