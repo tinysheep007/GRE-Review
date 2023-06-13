@@ -89,6 +89,12 @@ Finsihed Recording all mistakes from KMF 200Q
 ## Day 17
 In flushing, ate funny BBQ
 Finish vocab list 21-22 no review tho
+
+## Day 18
+Finish all 佛教 vocab list list 23-25
+STILL NEED TO REVIEW DAILY 
+Finish recording mistakes from math 170 up to Q140
+Try to fill up all the unknown key points from mathmistakes.md and previous recorded notebooks
  
 
 ## KMF Verbal progress
