@@ -95,7 +95,13 @@ Finish all 佛教 vocab list list 23-25
 STILL NEED TO REVIEW DAILY 
 Finish recording mistakes from math 170 up to Q140
 Try to fill up all the unknown key points from mathmistakes.md and previous recorded notebooks
- 
+
+### Day 19
+Review 佛教 vocab and self collected vocab
+20 Fill in blank
+Reviewed all math mistakes and key points
+finished math 170 up to Q158
+Took verbal practice test - 152 
 
 ## KMF Verbal progress
 f: fill in blank / r: reading

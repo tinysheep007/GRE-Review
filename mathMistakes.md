@@ -112,17 +112,17 @@ study rhombus's area equation
 ![simple interest](./pic/simpleineterest.jpg)
 
 ### result of a sqaure root, the answer must be positive
-Ex: k^2 = x + 1, since x+1 on the right side is the answer of a squre root.
+Ex: sqrt(k) = x + 1, since x+1 on the right side is the answer of a squre root.
 x + 1 >= 0 or else the solution fails.
 
 ### integer and sum problem note:
 if 1.25x is the sum of integer sets,  x must be multiple of 4
 if 0.09x is the sum of the integer sets, x must be multiple of 100
 if 0.15x is the sum of the integer sets, x must be multiple of 20
-if 0.075 is the sum of the integer sets, x must be multiple of 40 
+if 0.075x is the sum of the integer sets, x must be multiple of 40 
 
 ### even and odd number properties
-![odd even rules](./pic/oddevenrules.jfif.crdownload)
+![odd even rules](./pic/oddevenrules.png)
 - 奇数 有 奇数个， 和 差 为奇数 
 Ex: a+b+c+d+e （a c e are odd） 3 of them are odd 
 their sum is odd
