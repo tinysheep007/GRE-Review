@@ -27,3 +27,7 @@ pick the words based on the context of the previous picked words as well
 
 first, find the object where the blank is referring to. Next, learn the logic of the strcuture of the sentence: do we need to put a positive, or negative tone, or more severe tone.
 
+as ... as .. 
+it means two possible explanations and maybe they are the opposite of each other 
+
+If there is logic expressing words, such as DIFEERENCE immediately pay attention to how it changes the flow of the logic.

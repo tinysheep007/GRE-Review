@@ -101,7 +101,12 @@ Review 佛教 vocab and self collected vocab
 20 Fill in blank
 Reviewed all math mistakes and key points
 finished math 170 up to Q158
-Took verbal practice test - 152 
+Took verbal practice test - 152 60% 40%
+
+### Day 20
+Went shopping not as much time
+Review half vocab that needed to be done
+Took math practice test - 163 95% 65%
 
 ## KMF Verbal progress
 f: fill in blank / r: reading
