@@ -108,6 +108,26 @@ Went shopping not as much time
 Review half vocab that needed to be done
 Took math practice test - 163 95% 65%
 
+### Day 21
+Reviewed words from GRE 3000 app
+Finished gathering all question from previous mock test in math section
+Finish math 170 hard questionsa and recorded the mistakes
+
+stuff still have to read:
+Math: 
+OG conventions
+OG review
+math vocab
+math master review by chinese dude
+
+Verbal:
+Reading 2 lines guide
+reading questions guide
+
+Writting:
+questions and all related guides
+
+
 ## KMF Verbal progress
 f: fill in blank / r: reading
 section 1: f=4/10 r=4/10 t=8/20

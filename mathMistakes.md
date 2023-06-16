@@ -6,6 +6,8 @@
 [number properties](#number-properties)
 
 ### Need to study more
+a^b * c^b = (a*c)^b
+1 centimeter = 10 milimeter
 probability?
 study SIN COS TAN and traingle short cuts 
 均值不等式 
