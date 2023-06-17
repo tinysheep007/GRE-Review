@@ -113,12 +113,19 @@ Reviewed words from GRE 3000 app
 Finished gathering all question from previous mock test in math section
 Finish math 170 hard questionsa and recorded the mistakes
 
+### Day 22
+Reviewe words from GRE 3000 app and master list
+Finishing reading OG convention and finished 60 pages of master math study guide
+20 verbal practice. A lot of overthinking.
+
 stuff still have to read:
 Math: 
 OG conventions
 OG review
 math vocab
+math vocab from zhangwei also
 math master review by chinese dude
+do the practice within that per section too 
 
 Verbal:
 Reading 2 lines guide

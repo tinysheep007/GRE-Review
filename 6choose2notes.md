@@ -1,6 +1,10 @@
 etiher ... or ... 取反
 nonetheless / nevertheless
 
+for all ... 
+is the same as despite ...
+取反
+
 1-5 and 12-16 是填空
 其他都是阅读
 
@@ -31,3 +35,6 @@ as ... as ..
 it means two possible explanations and maybe they are the opposite of each other 
 
 If there is logic expressing words, such as DIFEERENCE immediately pay attention to how it changes the flow of the logic.
+
+... and ... is just parallel
+don't overthink into more exaggrated 

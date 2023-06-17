@@ -6,6 +6,13 @@
 [number properties](#number-properties)
 
 ### Need to study more
+absolute value problem practice
+study inequality
+compare Quantity more practice needed
+double check the question when u divide the product freqnecy by amount
+0 is neither positive or negative
+0 is even
+negative number division remainder: -17 / 7 = -3 ... 4
 a^b * c^b = (a*c)^b
 1 centimeter = 10 milimeter
 probability?
@@ -86,7 +93,10 @@ study rhombus's area equation
 ## XY-Plane
 ### formula for the difference of square  
 ![difference of square](/pic/differenceOfSquare.png)
-(a+b)^2 = a^2 + 2ab + b^2 and (a-b)^2 = a^2 - 2ab+b^2
+- (a+b)^2 = a^2 + 2ab + b^2 and (a-b)^2 = a^2 - 2ab+b^2
+- (a+b)^3 = a^3 + 3 a^2 b + 3 a b^2 + b^3
+- (a-b)^3 = a^3 - 3 a^2 b + 3 a b^2 - b^3
+- (a^2 - b^2) = (a-b)(a+b)
 
 ### distance formula
 ![distance formula](./pic/distacneFormula.jpg)
@@ -94,6 +104,18 @@ study rhombus's area equation
 ### 4 qraduents
 ![quadrant](./pic/quadrant.webp)
 
+### Perpendicular
+- if we equations' slope's product = 1
+Ex: y= 2x+5 and y= -1/2x + 9
+2 * -1/2 = -1, then they are perpendicular
+
+### symmetrical problems
+- if point 1 and point 3 are symmetrical with respect to point 2, then
+- x2 = (x1 + x3) / 2 
+- y2 = (y1 + y3) / 2
+
+- if point 1 and point 2 are symmetrical with respect to y=x, then
+- point 2 = (y1, x1)
 
 ### find midpoint of 2 points
 ![midpoint](./pic/midpoint.jpg)
@@ -105,6 +127,8 @@ study rhombus's area equation
 
 ### primes 
 ![prime](./pic/prime.png)
+- 2 is the only prime and even number
+- any even numbers bigger than 2 can be the sum of 2 prime numbers
 
 ### study the trick of divisible number such as 3, 9 
 ![divide rules](./pic/divideRules.jpg)
@@ -125,6 +149,8 @@ if 0.075x is the sum of the integer sets, x must be multiple of 40
 
 ### even and odd number properties
 ![odd even rules](./pic/oddevenrules.png)
+- 2 consecutive positive integers'product is 2's multple. 
+- 3 consecutive positive integers' product is 6's multiple.
 - 奇数 有 奇数个， 和 差 为奇数 
 Ex: a+b+c+d+e （a c e are odd） 3 of them are odd 
 their sum is odd
@@ -138,6 +164,44 @@ their sum is even
 ### product of even and odd numbers
 - all numbers r odd, product is odd
 - as long as there is 1 or more even, sum is even
+
+### Find least common multiple / greatest common divisor:
+LCM:
+1. separate 2 numbers into their prime factors
+2. find all common factors. Only keep the factors that has the highest power, get rid of other common factors with lower powers
+3. multiply the left over factors, alltogether
+
+GCD:
+1. separate 2 numbers into their prime factors
+2. find all the common divisors, take the one with the lowest power.
+3. multiply common divisors
+
+Ex: Find LCM and GCD of 64 and 72
+64 = 2^6     72 = 2^3 * 3^2
+so LCM = 2^6 * 3^2 = 576 
+GCD = 2^3 = 8
+
+### the reptition of the unit digit after powers
+start from power of 1
+- 2's power: 2, 4, 6, 8
+- 3's power: 3, 9 ,7, 1
+- 4's power: 4, 6
+- 6's power: 6
+- 7's power: 7, 9, 3, 1
+- 8's power: 8, 4, 2, 6
+- 9's power: 9, 1
+
+### negative numbers
+- they have 1 and only 1 odd numberth root
+Ex： 3rd root of -8 = -2
+
+### absolute rules
+- | a + b | <= | a | + | b | also known as TRIANGLE INEQUALITY
+- | ab | = | a | * | b |
+- if a>1, then a^2 > a; if 0<a<1, then a^2 < a
+
+### Percentage
+- x percent = x/100
 
 ### other useful integer properties
 - from odd number A to odd number B (including both end)'s the number of odd = ( (b-a)/2 )  + 1
