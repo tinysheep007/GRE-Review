@@ -21,9 +21,14 @@ study SIN COS TAN and traingle short cuts
 二项式定理
 if twice as many employees work at the plant in Mexico as work at the plant in Pakistan Means 2 Pakis = Mexico
 
+![grammer](./pic/grammer.JPG)
+![tenth](./pic/tenth.jpg)
+- supplemntary angle = sum of angles = 180
+- complemntary angle = sum of angles = 90
 ### Combination 
 Ex: 8 pick 4 when order don't matter
 8C4 = 8!/(8-4)!4! = 8*7*6*5/4*3*2*1 = 70
+- n pick k's result is the same as n pick (n-k)
 
 ### Permutation
 Ex: 8 pick 4 when order does matter
@@ -32,6 +37,7 @@ if repeats are not allowed:
 if there is repeat
 8^4
 
+![probability of indepence and mutually exlusive](./pic/prob.JPG)
 
 ### Stats 
 ### Normal Curve
@@ -62,10 +68,21 @@ SSS, SAS, ASA, AAS
 ### equilateral triangle area formula
 ![equilateral](./pic/equilateralTriangleFOrmula.png)
 
+### angle theory
+- if the sum of the two smallest side's squre is smller than the third side's squre, triangle would be obtuse triangle. If bigger, then it is a acute triangle.
 - radical 3 / 4 * (a^2) 
 - a is the side length
 
+### triangle area given each side length
+![triangle area given each side length](./pic/feron.png)
+
 多边形内角和公式=(n-2)*180
+
+- If using constant perimeter, the biggest area of the triangle would be formed using equilateral triangle.
+
+- If there is 2 similar triangle, the ratio between their area is the squred of the ratio of their length.
+
+- the ouside angle is the same as the sum of 2 inner angle located not next to the outisde angle.
 
 三角形：外角=两个内角和
 两边之和大于第三边， 两边之差小于第三边。
@@ -80,6 +97,16 @@ study rhombus's area equation
 - given d1 and d2 which are directly across inside it, area = 1/2 * a * b
 - given side and angles, area = s^2 sin angle
 
+### Trepazoid
+- area: 1/2 * (base1 + base2) * h
+
+### circle
+
+- length of arc is calculated by: 
+arc length /  perimeter of circle = center angle / 360 
+
+- if there is a right triangle inscribed inside the circle, then one side of the triangle is the diameter of the circle.
+
 ### 同圆或等圆中，同弧或等弧所对的圆周角相等
 ![same arc](./pic/sameArcAngleInCircle.jfif)
 ![center angle](./pic/circle%20center%20angle.webp)
@@ -89,6 +116,15 @@ study rhombus's area equation
 
 ### n边形对角线数量公式
 ![n shape inline](./pic/nShapeInLine.png)
+
+### 3-dimentional
+- rectangular 3-d model has 6 surfaces and 8 vertex.
+- surface area = A = 2 (wl + wh + lh)
+- volumn = lwh
+
+cylinder
+- volumn = pi  * r^2 * h
+- surface area = A = 2 * pi * r^2 + h * pi * 2r
 
 ## XY-Plane
 ### formula for the difference of square  
@@ -116,6 +152,30 @@ Ex: y= 2x+5 and y= -1/2x + 9
 
 - if point 1 and point 2 are symmetrical with respect to y=x, then
 - point 2 = (y1, x1)
+
+- if 2 straight lines are symmetrical with respect to y=x, then first pick 2 points of the original equation and from there we would get the 2 corresponding flipped points of the symmetrical equation. Then we can find the slope and the y-intercept of the equation.
+
+### parabola
+y=ax^2 + bx + c
+- the distance of the parabola opening is the distance between the two root
+- if a > 0, the parabola opens upward, vertex is at the minimum point.
+- if a < 0, the parabola opens downward, vertex is at the maximum point.
+
+![parabola vertex equation](./pic/parabolaVertex.JPG)
+
+- -b/2a is the line of symeetry
+
+### Circle
+![circle](./pic/circle.jpg)
+
+### Functions
+- f(x)+c shift up c
+- f(x)-c shift down c
+- f(x+c) move left c
+- f(x-c) move right c
+- c * f(x): c>1 stretch vertically
+- c * f(x): 0 < c < 1 shrunk vertically
+
 
 ### find midpoint of 2 points
 ![midpoint](./pic/midpoint.jpg)
