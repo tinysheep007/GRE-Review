@@ -118,6 +118,12 @@ Reviewe words from GRE 3000 app and master list
 Finishing reading OG convention and finished 60 pages of master math study guide
 20 verbal practice. A lot of overthinking.
 
+### Day 23
+Reviewed words from master list
+Finish reading math master guide and added to notes
+Began reading master guide to reading and other reading helpful material
+20 verbal practice. Finding keywords r important.
+
 stuff still have to read:
 Math: 
 OG conventions
