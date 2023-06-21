@@ -20,11 +20,16 @@ study SIN COS TAN and traingle short cuts
 均值不等式 
 二项式定理
 if twice as many employees work at the plant in Mexico as work at the plant in Pakistan Means 2 Pakis = Mexico
+mississipi principle
+![mississipi rule](./pic/mississipiRule.png)
 
 ![grammer](./pic/grammer.JPG)
 ![tenth](./pic/tenth.jpg)
 - supplemntary angle = sum of angles = 180
 - complemntary angle = sum of angles = 90
+
+- when question ask to find sum of a bunch of integers, after finding answer ,make sure the sum is also a integer. Cannot be a decimal number
+
 ### Combination 
 Ex: 8 pick 4 when order don't matter
 8C4 = 8!/(8-4)!4! = 8*7*6*5/4*3*2*1 = 70
@@ -37,6 +42,8 @@ if repeats are not allowed:
 if there is repeat
 8^4
 
+### Probability
+- if two events are indepdent, the porbability of one happends is always the same, don't matter the other event happen or not.
 ![probability of indepence and mutually exlusive](./pic/prob.JPG)
 
 ### Stats 

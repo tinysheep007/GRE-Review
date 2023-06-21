@@ -23,6 +23,11 @@ pay attention to words like NOT
 
 don't choose the word sets just because you know their meaning more. It does not means other options are not valid.
 
+don't skip words when reading sentence
+
+Opposites
+contemporary - old-fashioned
+
 ### Verbal fill in blank overall
 
 trust the logic of the sentence, don't use your own knowledge to judge the topic.

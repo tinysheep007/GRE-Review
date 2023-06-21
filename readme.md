@@ -124,6 +124,13 @@ Finish reading math master guide and added to notes
 Began reading master guide to reading and other reading helpful material
 20 verbal practice. Finding keywords r important.
 
+### Day 24
+Finish reading majority of the reading strats.
+Review some of words from master list
+Finish all kinds of verbal sections. 
+Noticed can grind all the questions on time. Especailly logical question and find pattern of it
+Need to prep for AW soon.
+
 stuff still have to read:
 Math: 
 OG conventions

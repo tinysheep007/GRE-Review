@@ -11,7 +11,12 @@ Whenever finish reading a paragraph, ask yourself
 2. what's the logic
 3. what's author's attitude towards it. Does he support, object, or further extend the topic?
 
+read questions carefully and find out whoes view is it
 
+watch out for key words in the question such as EXCEPT! Don't forget what the question is asking when reading all the choices.
+
+in certain options, they might have slight difference in wording that changes the sentence logic 180 degrees. 
+Ex: water level rises hurt the beaver home. In passage, water level fell would hurt beaver home.
 ### KMF 6/6/2023 notes
 
 when reading, mark the type of the sentence.
