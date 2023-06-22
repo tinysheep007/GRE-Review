@@ -131,6 +131,11 @@ Finish all kinds of verbal sections.
 Noticed can grind all the questions on time. Especailly logical question and find pattern of it
 Need to prep for AW soon.
 
+### Day 25
+Reviewed vocab from master list. Did 100 and reviewed from GRE 3000 app
+Learned few math tricks and 6 fill in 2 techinquies
+Started reading AW 
+
 stuff still have to read:
 Math: 
 OG conventions
