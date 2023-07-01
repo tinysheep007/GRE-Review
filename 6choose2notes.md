@@ -30,6 +30,9 @@ contemporary - old-fashioned
 
 Don't forget to check if options would be contradictory to other parts of the sentence or options. Even if you have option in mind, still check possibility of others
 
+reassure is positive word
+
+
 ### Verbal fill in blank overall
 
 trust the logic of the sentence, don't use your own knowledge to judge the topic.

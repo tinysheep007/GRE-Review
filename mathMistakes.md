@@ -6,6 +6,8 @@
 [number properties](#number-properties)
 
 ### Need to study more
+- 9 IS NOT PRIME DONT BE DUMB
+- negative integers CAN BE even or odd
 absolute value problem practice
 study inequality
 compare Quantity more practice needed
@@ -15,8 +17,6 @@ double check the question when u divide the product freqnecy by amount
 negative number division remainder: -17 / 7 = -3 ... 4
 a^b * c^b = (a*c)^b
 1 centimeter = 10 milimeter
-probability?
-study SIN COS TAN and traingle short cuts 
 均值不等式 
 二项式定理
 if twice as many employees work at the plant in Mexico as work at the plant in Pakistan Means 2 Pakis = Mexico
@@ -76,7 +76,7 @@ SSS, SAS, ASA, AAS
 ![equilateral](./pic/equilateralTriangleFOrmula.png)
 
 ### angle theory
-- if the sum of the two smallest side's squre is smller than the third side's squre, triangle would be obtuse triangle. If bigger, then it is a acute triangle.
+- if the sum of the two smallest side's squre(^2) is smller than the third side's squre, triangle would be obtuse triangle. If bigger, then it is a acute triangle.
 - radical 3 / 4 * (a^2) 
 - a is the side length
 
@@ -148,7 +148,7 @@ cylinder
 ![quadrant](./pic/quadrant.webp)
 
 ### Perpendicular
-- if we equations' slope's product = 1
+- if we equations' slope's product = -1
 Ex: y= 2x+5 and y= -1/2x + 9
 2 * -1/2 = -1, then they are perpendicular
 
@@ -190,8 +190,9 @@ y=ax^2 + bx + c
 ## Number Properties
 ### what does integers consists of? is 0,1,and -1 integers?
 ![number property](./pic/numberProperty.jpg)
-0 is even number
-
+- 0 is even number
+- 0 is not a natural number
+- whole numbers does NOT include negatives and fractions
 ### primes 
 ![prime](./pic/prime.png)
 - 2 is the only prime and even number
@@ -284,14 +285,16 @@ Ex： 3rd root of -8 = -2
 ### standard deivation of a equation(only multiply and divide matters)
 ![sd](./pic/linearTrans.jpg)
 
-For any equation ax² + bx + c = 0 -  
+
+### sum / product rules
+For any equation ax² + bx + c = 0 
 Sum of the values of x = -b/a  
 Product of the values of x = c/a  
 
 ### quadratic formula
 ![quadratic](./pic/quadratic.webp)
 
-A⽟⽶地杂交种⼦数量17%A，B⽟⽶地杂交种⼦数量11%A
+A⽟⽶地杂交种⼦数量17%A，B⽟⽶地杂交种⼦数量11%B
 故两个⽟⽶地加起来，杂交种⼦数量17%A+11%·B
 占全部种⼦的百分⽐C=(17%A+11%·B)/(A+B)
 当A=B，正好平分，那么C⼀定就等于(17%+11%)/2=14%
@@ -306,5 +309,7 @@ A⽟⽶地杂交种⼦数量17%A，B⽟⽶地杂交种⼦数量11%A
 ### remainder 
 1 / 100 = ans .... 1 remainder always 1 if 1 is smaller than the dividor
 
+### 容斥原理
+![includsion](./pic/inclusion.png)
 
 

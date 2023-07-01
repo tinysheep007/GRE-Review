@@ -136,6 +136,17 @@ Reviewed vocab from master list. Did 100 and reviewed from GRE 3000 app
 Learned few math tricks and 6 fill in 2 techinquies
 Started reading AW 
 
+### Day 26
+Reviewed all math mistakes and math notes
+finish 20 math hard
+Mock verbal
+
+### Day 27
+Did 60 Verbal fill in blank
+Did 40 Math questions. Mistakes are recorded
+Got gregmat learned about building connections between logical questions
+Review vocab before sleep
+
 stuff still have to read:
 Math: 
 OG conventions
