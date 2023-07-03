@@ -6,6 +6,8 @@
 [number properties](#number-properties)
 
 ### Need to study more
+- to find the standard deviation of a set of numbers, we can find their mean first and list out the difference between the mean and each number. Bigger the difference, bigger the sd.
+
 - 9 IS NOT PRIME DONT BE DUMB
 - negative integers CAN BE even or odd
 absolute value problem practice
@@ -171,6 +173,8 @@ y=ax^2 + bx + c
 ![parabola vertex equation](./pic/parabolaVertex.JPG)
 
 - -b/2a is the line of symeetry
+
+![vertex form](./pic/vertexform.jpg)
 
 ### Circle
 ![circle](./pic/circle.jpg)

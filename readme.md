@@ -147,6 +147,11 @@ Did 40 Math questions. Mistakes are recorded
 Got gregmat learned about building connections between logical questions
 Review vocab before sleep
 
+### Day 28
+Did 30 Verbal fill in blank
+Did 20 Math Questions. Mistakes are recorded.
+Review self-collected vocab
+
 stuff still have to read:
 Math: 
 OG conventions
