@@ -152,6 +152,13 @@ Did 30 Verbal fill in blank
 Did 20 Math Questions. Mistakes are recorded.
 Review self-collected vocab
 
+### Day 29-32
+Grind GREGMAT MATH SECTION finished up til week 3 day 6
+Need to double check Q170 and the chinese people math book for more practice
+need to began verbal grind and watch gregmat video
+review old vocab and add unfamiliar word to google sheet
+
+
 stuff still have to read:
 Math: 
 OG conventions

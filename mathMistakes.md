@@ -6,6 +6,13 @@
 [number properties](#number-properties)
 
 ### Need to study more
+- for QC, first try to make them equal and then find cases make them not equal
+- number 8 is the last QC so start from 9 
+![how many multiple is in between 2 num](./pic/multiple.JPG)
+- fractions^2 = smaller. fractions are less than 1
+- sqrt(fraction) = bigger
+![power rule](./pic/powerfule.png)
+- 20! has 4 zeros because 4 multiple of 5 / 25! has 6 zeroes becase 25=5x5 there is 2 5s in 1 term
 - to find the standard deviation of a set of numbers, we can find their mean first and list out the difference between the mean and each number. Bigger the difference, bigger the sd.
 
 - 9 IS NOT PRIME DONT BE DUMB
@@ -24,6 +31,7 @@ a^b * c^b = (a*c)^b
 if twice as many employees work at the plant in Mexico as work at the plant in Pakistan Means 2 Pakis = Mexico
 mississipi principle
 ![mississipi rule](./pic/mississipiRule.png)
+![mississipi KMF](./pic/KMFmississipiRulebut.JPG)
 
 ![grammer](./pic/grammer.JPG)
 ![tenth](./pic/tenth.jpg)
@@ -48,6 +56,7 @@ if there is repeat
 - if two events are indepdent, the porbability of one happends is always the same, don't matter the other event happen or not.
 ![probability of indepence and mutually exlusive](./pic/prob.JPG)
 
+- simultaneously means no replace / one after another
 ### Stats 
 ### Normal Curve
 ![normal-curve](./pic/normal-curve.png)
@@ -76,7 +85,7 @@ SSS, SAS, ASA, AAS
 
 ### equilateral triangle area formula
 ![equilateral](./pic/equilateralTriangleFOrmula.png)
-
+- area easy to memoize: half half radical 3 = a/2 * a/2 * radical 3
 ### angle theory
 - if the sum of the two smallest side's squre(^2) is smller than the third side's squre, triangle would be obtuse triangle. If bigger, then it is a acute triangle.
 - radical 3 / 4 * (a^2) 
@@ -97,6 +106,11 @@ SSS, SAS, ASA, AAS
 两边之和大于第三边， 两边之差小于第三边。
 ![triangle Third leg](./pic/triangleThirdLeg.jpg)
 
+- bigger the angle, the bigger the opposite side length
+
+- an exmaple, if we go from 90-30-60 to 100-20-60, we notice the 90 got added 10, so in terms of pythagorean theorem. c^2 > a^2 + b^2
+### Similar triangle
+- the ratio within a triangle's side should be the same as the ratio of the corrpesonding sides of other similar triangle.
 ### Rhombus
 rhombus's 4 sides are equal.
 ![rhombus](./pic/area-rhombus.png)
@@ -110,6 +124,7 @@ study rhombus's area equation
 - area: 1/2 * (base1 + base2) * h
 
 ### circle
+- always try to see if you can move the arc and maybe there is other extreme ways to make the graph
 
 - length of arc is calculated by: 
 arc length /  perimeter of circle = center angle / 360 
@@ -136,6 +151,8 @@ cylinder
 - surface area = A = 2 * pi * r^2 + h * pi * 2r
 
 ## XY-Plane
+## Rotate 90 degrees from origin
+- flip x and y and make the corresponding x or y negative
 ### formula for the difference of square  
 ![difference of square](/pic/differenceOfSquare.png)
 - (a+b)^2 = a^2 + 2ab + b^2 and (a-b)^2 = a^2 - 2ab+b^2
@@ -284,6 +301,7 @@ Ex： 3rd root of -8 = -2
 - if questions asks for things about consecutive odd / even numbers:   
 - set evens numbers to 2k-2, 2k, 2k+2, 2k+4, ...  
 - set odd numbers to 2k-3, 2k-1, 2k+1, 2k+3, ...
+- 
 
 
 ### standard deivation of a equation(only multiply and divide matters)
