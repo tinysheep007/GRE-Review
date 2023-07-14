@@ -6,6 +6,7 @@
 [number properties](#number-properties)
 
 ### Need to study more
+- for graph and chart question, break the question down and do it step by step
 - for QC, first try to make them equal and then find cases make them not equal
 - number 8 is the last QC so start from 9 
 ![how many multiple is in between 2 num](./pic/multiple.JPG)
@@ -60,9 +61,9 @@ if there is repeat
 ### Stats 
 ### Normal Curve
 ![normal-curve](./pic/normal-curve.png)
-Area between 1 sd = 68 / 34.13% each
-Area between 2 sd = 95 / 13.59% each
-Area between 3 sd = 99 / 2.14% each
+Area between 1 sd = 68 / 34 34.13% each 
+Area between 2 sd = 95 / 14 13.59% each
+Area between 3 sd = 99 / 2 2.14% each
 
 ### skewed to the left or right: mean VS median
 ![skewed](./pic/skewedgraph.jfif)
@@ -334,4 +335,9 @@ A⽟⽶地杂交种⼦数量17%A，B⽟⽶地杂交种⼦数量11%B
 ### 容斥原理
 ![includsion](./pic/inclusion.png)
 
-
+### Gregmat Strat
+- 1. find whatever we can without looking at question
+- 2. pick smart numbers to plug in 
+- 3. make QC options look like each other
+- 4. backsolving
+- 5. find patterns

@@ -158,6 +158,9 @@ Need to double check Q170 and the chinese people math book for more practice
 need to began verbal grind and watch gregmat video
 review old vocab and add unfamiliar word to google sheet
 
+### Day 32
+GREGMAT math video til week 4 day 5
+Watched Day 1 of verbal. learned the math strategy. Find key words to support or contrast
 
 stuff still have to read:
 Math: 
