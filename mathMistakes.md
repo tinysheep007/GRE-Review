@@ -6,6 +6,24 @@
 [number properties](#number-properties)
 
 ### Need to study more
+- when finding the unit digit, if reminader is 1, is the first looping element, NOT THE SECOND.
+- after calcualting a result, go back to the problem to check if we need to modify the answer to fit certain rules such as all numbers in thwe list has to be integers
+- if P(A) and P(B) are independent, then P(A) is always the same given any condition such as GIVEN B HAPPENDS
+- WATCH OUR FOR PERCENT / SEE IF ANY GRAPH CAN BE STRETCHED FROM SQURE TO RECTANGLE
+- 88，93, 100 FROM Q170
+- 等差数列
+- after squre root, remeber consider the negatives
+- need to study more remainder, absolute value, inequality, QC, geo
+- when a question give you x>0, always consider x as decimals smaller than 1 since decimal squre is smaller than original number
+- 直接套用六数和的结论：abc形成的六个三位数的和=222(a+b+c)，所以7、8、9形成的六数和=222(7+8+9)=5328
+- 直径对的圆周角=90°
+- 等差数列的平均数=中位数
+- review missipi problem
+- skip hard question or long question
+- equation for count how many multiple of y is between x and y. First, find first and last multiple within the given range, divide by y and then at the end + 1
+- questions about multiple or powers make every int to prime factors
+- when u see x is percent of something. U can set their total amount to be 100 so u can use the percentage as a integer
+- reread what the question and answer choices are asking!!!
 - for graph and chart question, break the question down and do it step by step
 - for QC, first try to make them equal and then find cases make them not equal
 - number 8 is the last QC so start from 9 
@@ -14,19 +32,17 @@
 - sqrt(fraction) = bigger
 ![power rule](./pic/powerfule.png)
 - 20! has 4 zeros because 4 multiple of 5 / 25! has 6 zeroes becase 25=5x5 there is 2 5s in 1 term
-- to find the standard deviation of a set of numbers, we can find their mean first and list out the difference between the mean and each number. Bigger the difference, bigger the sd.
-
 - 9 IS NOT PRIME DONT BE DUMB
 - negative integers CAN BE even or odd
-absolute value problem practice
-study inequality
-compare Quantity more practice needed
-double check the question when u divide the product freqnecy by amount
-0 is neither positive or negative
-0 is even
-negative number division remainder: -17 / 7 = -3 ... 4
-a^b * c^b = (a*c)^b
-1 centimeter = 10 milimeter
+- absolute value problem practice
+- study inequality
+- compare Quantity more practice needed
+- double check the question when u divide the product freqnecy by amount
+- 0 is neither positive or negative
+- 0 is even
+- negative number division remainder: -17 / 7 = -3 ... 4
+- a^b * c^b = (a*c)^b
+- 1 centimeter = 10 milimeter
 均值不等式 
 二项式定理
 if twice as many employees work at the plant in Mexico as work at the plant in Pakistan Means 2 Pakis = Mexico
@@ -40,6 +56,14 @@ mississipi principle
 - complemntary angle = sum of angles = 90
 
 - when question ask to find sum of a bunch of integers, after finding answer ,make sure the sum is also a integer. Cannot be a decimal number
+
+### Standard deviation Question
+![sd](./pic/sd.JPG)
+- When there is same amount of numbers and their mean is the same. The more spiky 凸 the graph, the higher the sd. The more 凹 it goes, the less sd.
+
+- to find the standard deviation of a set of numbers, we can find their mean first and list out the difference between the mean and each number. Bigger the difference, bigger the sd.
+
+- if you can find each pair of data point to be sum of the same, then their sd is the same
 
 ### Combination 
 Ex: 8 pick 4 when order don't matter
@@ -87,6 +111,7 @@ SSS, SAS, ASA, AAS
 ### equilateral triangle area formula
 ![equilateral](./pic/equilateralTriangleFOrmula.png)
 - area easy to memoize: half half radical 3 = a/2 * a/2 * radical 3
+ICE ICE BABY
 ### angle theory
 - if the sum of the two smallest side's squre(^2) is smller than the third side's squre, triangle would be obtuse triangle. If bigger, then it is a acute triangle.
 - radical 3 / 4 * (a^2) 
@@ -310,9 +335,16 @@ Ex： 3rd root of -8 = -2
 
 
 ### sum / product rules
+Vieta's formula 
 For any equation ax² + bx + c = 0 
 Sum of the values of x = -b/a  
 Product of the values of x = c/a  
+
+### Find number of roots in a function
+- b^2 - 4ac
+- > 0 means 2 x-interccept
+- < 0 means 0 x-interccept
+- = 0 means 1 x-interccept
 
 ### quadratic formula
 ![quadratic](./pic/quadratic.webp)

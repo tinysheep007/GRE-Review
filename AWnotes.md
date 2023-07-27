@@ -41,6 +41,7 @@ maybe we can add a counterpoint, but instantly shut down by supporting our own i
 
 ## Argument
 
+
 Before writing, we need to find
 1. conclusion
 2. evidence
@@ -54,7 +55,7 @@ make sure to follow the directions.
 3. thesis: follow direction of the question
 
 - body paragraph
-1. supporting idea: following directino of question format
+1. supporting idea: following directino of question format (topic sentence should be simplified and easy to understand IMPORTANT)
 2. exmaple 1 (use maybe perhaps. Not to determine, leave room for hypothetical cases)
 3. exmaple 2
 4. effects of the conclusion if proven true
@@ -63,3 +64,11 @@ make sure to follow the directions.
 1. statement as of now is flawed
 2. request more evidence
 3. statement of how evidence would help argument evalute more effectively
+
+### common flaws
+- over generelization
+- use things from past to compare present
+- conclude one case would be representative for multiple cases.
+- badly designed survey
+- ignore the negative conseqeuence
+- those we REPORTED can be broken down as lying, mistakes, and represent the portion who did not take the survey

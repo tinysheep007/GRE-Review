@@ -1,9 +1,3 @@
-200
-https://www.ebay.com/itm/272938725776?fits=Year%3A2013%7CModel%3ASoul%7CMake%3AKia&hash=item3f8c6a7190:g:GIsAAOSwjZFeIQjN&amdata=enc%3AAQAIAAAA8OrLLzRlk9i1j1qIp39CZUJLpwRQtPZ7C7bunDujJgGYQM%2F4LOwkEAyQZA%2BW3rsQCiOLLGgkBbQ7Bez7uTxt0%2FaH5Ryw%2FoPYS0w1CxHLlthYzUjd6%2Bqtk7QsbDNyx%2FJVnMJeqKX%2Fyon%2Fh5oKrKdRMB7YGZz%2Fbrz6Kj7vc1XpBNctH0Xn%2BrXttkFYayqmRug4PdLm15bfRzxcGsi8e6TtSUy6JaTfBxVbbtWAMsNFzyYbaHzEDTtoxMG6CzmfK86pEpn0pWYfZf%2F4WIQklYDzQIEypKz0JdePE3EN0FcujtoSTszCPQuWdoJygle%2FD7XsaA%3D%3D%7Ctkp%3ABFBMpueah6Ni
-
-88 
-https://www.ebay.com/itm/172256942497?fits=Year%3A2013%7CModel%3ASoul%7CMake%3AKia&hash=item281b5059a1:g:MFUAAOSwzJ5Xcu6O&amdata=enc%3AAQAIAAABALVl87tesf0m5bM2cWF1IVLUc2qpcyefwCHODRZdyNHnu90q09xehHIMdKeqvg7T0M7RSBrWd1cLyiFVeKW5y%2BGjwv2%2BCATGs8gmOAVYAB%2FKsUP9X2oz64SVpDTQeZy3YQTZ54TkbrSltgTgBcMjTmxDB9qHvfy38wK1qqLdAUFXRNmmJ6ne0Si4teJPocqrYLNNr7BZZuVxXCUmHJuH70%2FrLI27btn1lcB6EwTUIqPTReOklSvheTt4tKQ3jxOLQv76x7NuchTn3Xq5m48FUj0ApxrkOdRTSOGwE6vYvYqT1kP8DVv8QosUjV%2FXWpVW4r2FWV%2BDFeAfP3VwYAPE32Y%3D%7Ctkp%3ABFBM0Nynh6Ni
-
 
 etiher ... or ... 取反
 nonetheless / nevertheless / notwithstanding
@@ -16,6 +10,11 @@ is the same as despite ...
 其他都是阅读
 
 # 错因总结
+- pay attention to what is the blank referring to! Is it a person or is it idea?
+
+- look for contrasting words such as now VS earlier
+
+- everyone has a angle MEANS everyone is selfish and concern only to themselves
 somtimes, 1 options might seems really good, but there's no other similar meaning word to mathc it.
 
 If cannot identity the strong logic, try look for the lines before the blank, not just after the blank.
@@ -44,6 +43,7 @@ charge somebody with doing something. 某人有责任做。，。。
 or在并列否定句时，not是在or前后共用的，所以第一句话的完整内容应该是：consolidating memory is not instantaneous  or even  【not】 ___ ,
 原句：
 Consolidating a memory is not instantaneous or even _____: every memory must be encoded and moved from short-term to long-term storage, and some of these memories are, for whatever reason, more vividly imprinted than others.
+
 
 ### Verbal fill in blank overall
 
