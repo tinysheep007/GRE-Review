@@ -5,7 +5,42 @@
 [xy plane](#xy-plane)
 [number properties](#number-properties)
 
+## 代数比大小题
+- 看variable可不能可以设置成一样的。看可不可以是负的，小数的。
+1. 减法
+2. 除法(都是正的)
+3. 代入特殊值
+![power graph](./pic/powergraph.png)
+![radical graph](./pic/radicalgraph.png)
+
 ### Need to study more
+- ![daxiao](./pic/daxiao.png)
+- ![budengshi](./pic/budengshi.png)
+- ![gongshi](./pic/gongshi.png)
+- ![gushuan](./pic/gusuan.png)
+- ![zhishu](./pic/zhishu.png)
+- 韦达定理 和-b/a 积c/a
+- ![jueduizhi](./pic/jueduizhi.png)
+- ![xiaoshukaodian](./pic/xiaoshukaodian.png)
+- ![zhengshu](./pic/zhengshu.png)
+- ![daokou](./pic/daokou.png)
+- rewatch hard 170 a+b >= 2 radical ab
+- 等比数列
+![dengbi](./pic/dengbi.jpg)
+- ![cube equation](./pic/cubeequation.png)
+- ![shizi](./pic/shizi.png)
+![divide](./pic/divide.png)
+- from A to B: |A-B|/A * 100%
+- watch out if question is asking the value / the number of
+- even numbers consider 0 plz
+- bigger than 0 try deciamals, and < 0 try -0.5
+- a / b = c ... d -> 2a / 2b = c ... 2d
+![number series](./pic/numberseries.png)
+![ratio series](./pic/ratioseries.png)
+- common right triangle legnth: 5 12 13, 9 12 15
+- 穿针引线法
+![chuanshen](./pic/chuanzhen.JPG)
+- IF we want to do root of a decimal, the more you do the bigger it gets. NOTE DEMICAL IS POSITIVE
 - when finding the unit digit, if reminader is 1, is the first looping element, NOT THE SECOND.
 - after calcualting a result, go back to the problem to check if we need to modify the answer to fit certain rules such as all numbers in thwe list has to be integers
 - if P(A) and P(B) are independent, then P(A) is always the same given any condition such as GIVEN B HAPPENDS
@@ -57,9 +92,14 @@ mississipi principle
 
 - when question ask to find sum of a bunch of integers, after finding answer ,make sure the sum is also a integer. Cannot be a decimal number
 
+### QC
+![QC1](./pic/QC1.JPG)
+![QC2](./pic/QC2.JPG)
+
 ### Standard deviation Question
 ![sd](./pic/sd.JPG)
-- When there is same amount of numbers and their mean is the same. The more spiky 凸 the graph, the higher the sd. The more 凹 it goes, the less sd.
+![sd rules](./pic/sdrule.JPG)
+- When there is same amount of numbers and their mean is the same. The more spiky 凸 the graph, the lower the sd. The more 凹 it goes, the higher sd.
 
 - to find the standard deviation of a set of numbers, we can find their mean first and list out the difference between the mean and each number. Bigger the difference, bigger the sd.
 
@@ -298,7 +338,7 @@ GCD = 2^3 = 8
 
 ### the reptition of the unit digit after powers
 start from power of 1
-- 2's power: 2, 4, 6, 8
+- 2's power: 2, 4, 8， 6
 - 3's power: 3, 9 ,7, 1
 - 4's power: 4, 6
 - 6's power: 6
